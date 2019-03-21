@@ -23,6 +23,13 @@ The prepared libraries were sequenced on NextSeq 500 platform by miRNA-Seq appro
 | SRR6464673  | CATS | C_synth_equi_rep2 |
 | SRR6464674  | CATS | C_synth_equi_rep1 |
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 ## Analysis steps
 
 #### downloading
