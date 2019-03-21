@@ -8,8 +8,8 @@ This is an open access reporitory to collect all used adapter sequences in curre
 
 3' adapter for small RNA sequencing on Illumina platform
 
-| Vendor        | Kit           | Version | 3' Adapter sequence |
 
+| Vendor        | Kit           | Version | 3' Adapter sequence |
 | :----------- :|:-------------:| -------:| --------------------|
 | New England Biolabs        | NEBNext Multiplex Small RNA Library Prep Kit for Illumina           | V3 | 5'-AGATCGGAAGAGCACACGTCT-3' |
 | Illumina        | TruSeq Small RNA           | Version | 5’-TGGAATTCTCGGGTGCCAAGG-3' |
@@ -19,7 +19,7 @@ This is an open access reporitory to collect all used adapter sequences in curre
 | SeqMatic        | TailorMix miRNA Sample Preparation Kit           | V2 | 5’-TGGAATTCTCGGGTGCCAAGG-3' |
 | Takara        | SMARTer smRNA-Seq Kit for Illumina           | Version | 5’-AAAAAAAAAA-3' |
 | TriLink        | CleanTag Small RNA Library Prep Kit           | Version | 5'-TGGAATTCTCGGGTGCCAAGG-3' |
-| Diagenode        | CATS small RNA-seq Kit           | Version | GTTCAGAGTTCTACAGTCCGACGATCSSS |
+| Diagenode        | CATS small RNA-seq Kit           | Version | 5'-GATCGGAAGAGCACACGTCTG-3'  |
 | GenXPro         | TrueQuant SmallRNA Seq Kit for Ultra Low Input           | Version | TODO |
 | ~~Epicentre~~        | ~~ScriptMiner Small RNA-Seq Library Preparation Kit~~           | ~~Version~~ | ~~ ~~ | 
 | ~~Life Technology~~        | ~~SREK, Small RNA Expression Kit~~           | ~~version C~~ | ~~ ~~ | 
@@ -27,9 +27,6 @@ This is an open access reporitory to collect all used adapter sequences in curre
 **4 random bases
 
 ~~Kit~~ Discontinued kit
-
-
-
 
 
 ##### CATS Small RNA sequencing kit for Illumina
@@ -51,5 +48,8 @@ cutadapt --trim-n -a GATCGGAAGAGCACACGTCTG -a AGAGCACACGTCTG <input.file> | cuta
 ```
 
 
+## Contributing
+Any comments and contributions are welcome.
+Pull requests are welcome.
 
 
