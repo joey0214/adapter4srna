@@ -10,7 +10,7 @@ This is an open access reporitory to collect all used adapter sequences in curre
 
 
 | Vendor        | Kit           | Version | 3' Adapter sequence |
-| :----------- :|:-------------:| -------:| --------------------|
+|:-----------:|:-----------:|-----------:|-----------|
 | New England Biolabs        | NEBNext Multiplex Small RNA Library Prep Kit for Illumina           | V3 | 5'-AGATCGGAAGAGCACACGTCT-3' |
 | Illumina        | TruSeq Small RNA           | Version | 5’-TGGAATTCTCGGGTGCCAAGG-3' |
 | PerkinElmer        | NEXTflex Small RNA Sequencing Kit **           | V3 | 5’-TGGAATTCTCGGGTGCCAAGG-3' |
