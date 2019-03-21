@@ -13,7 +13,7 @@ Dard-Dascot *et.al.* compared libraries prepared by different small RNA library 
 The prepared libraries were sequenced on NextSeq 500 platform by miRNA-Seq approach.
 
 ## Selected datasets for demo analysis
-| Accession number        | Kit           | sample name | 
+| Accession number | Kit | sample name | 
 | :----------- :|:-------------:| -------:| 
 | SRR6464616   | NEBNext| NN_synth_equi_rep2 |
 | SRR6464623  | NEBNext| NN_synth_equi_rep1 |
