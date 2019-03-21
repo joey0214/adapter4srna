@@ -15,7 +15,7 @@ The prepared libraries were sequenced on NextSeq 500 platform by miRNA-Seq appro
 ## Selected datasets for demo analysis
 
 | Accession number | Kit | sample name | 
-|:----------- :|:-----------:|:-----------:| 
+|:-----------:|:-----------:|:-----------:| 
 | SRR6464616   | NEBNext| NN_synth_equi_rep2 |
 | SRR6464623  | NEBNext| NN_synth_equi_rep1 |
 | SRR6464673  | CATS | C_synth_equi_rep2 |
