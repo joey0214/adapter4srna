@@ -216,7 +216,7 @@ The first row is reads trimmed with proper NEBNext adapter sequence; the middle 
 + NEBText_trim03: trimming with removal A at 5' end and additional G at 3' of NEBNext adapter (identical to CATS adapter)
 
 A correct adapter is significant. One nucleotide or two nucleotide can change quantification and mislead final conclusion. 
-![NEBNext](./trimmedCount.NEBNext_trimming.png)
+![NEBNext](./demoAnalysis/trimmedCount.NEBNext_trimming.png)
 
 
 
@@ -229,7 +229,7 @@ An adapter sequence is not adequate to get result because of specific modificati
 + CATS_trim02: trimming with NEBNext adapter sequence `AGATCGGAAGAGCACACGTCT`
 + CATS_trim05: trimming according to instruction in manual (version 2 | 09.17)
 
-![CATS1](./trimmedCount.CATS_trimming.1.png)
+![CATS1](./demoAnalysis/trimmedCount.CATS_trimming.1.png)
 
 
 ### Version of adapter sequence/trimming instruction should be clearly disclosed
@@ -242,7 +242,7 @@ CATS provides detailed trimming instruction in the manuals (Version 2 | 01.17, V
 Minor difference observed in Tthe first two versions (*CATS_trim03* and *CATS_trim04*). However, *CATS_trim05* has remarkably variation to previous two. 
 
 All three versions were not doog at RNA2 and RNA4 (because of these two RNAs end with A). 
-![CATS2](./trimmedCount.CATS_trimming.2.png)
+![CATS2](./demoAnalysis/trimmedCount.CATS_trimming.2.png)
 
 
 
